@@ -51,7 +51,7 @@
     "typeface-spectral": "^0.0.40",
     "typography-breakpoint-constants": "^0.15.10",
     "typography-plugin-code": "^0.16.11",
-    "validator": "^9.2.0"
+    "validator": "^13.15.26"
   },
   "keywords": [
     "gatsby"
